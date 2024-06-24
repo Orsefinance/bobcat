@@ -1,0 +1,14 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "uri": "https://gist.githubusercontent.com/username/gistid/raw",
+  "image": "https://example.com/image.png",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "YourWalletAddress",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
